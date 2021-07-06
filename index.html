@@ -8,6 +8,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>OriginSix</title>
 
+  <!-- Icones -->
+  <link rel="stylesheet" href="assets/fonts/style.css">
+
   <!-- Estilos  -->
   <link rel="stylesheet" href="style.css">
 
@@ -21,16 +24,28 @@
 </head>
 
 <body>
+  <!-- Header -->
   <header id="header">
-    <nav class="container">
+    <nav class="container  ">
       <a class="logo" href="#">beauty<span>salon</span>.</a>
-      <div class="menu">Menu</div>
+      <!-- Menu -->
+      <div class="menu ">
+        <ul class="grid">
+          <li><a class="title" href="#home">Início</a></li>
+          <li><a class="title" href="#about">Sobre</a></li>
+          <li><a class="title" href="#services">Serviços</a></li>
+          <li><a class="title" href="#testimonials">Depoimentos</a></li>
+          <li><a class="title" href="#contact">Contato</a></li>
+        </ul>
+      </div>
+      <!-- /Menu -->
+      <div class="toggle icon-menu"></div>
+      <div class="toggle icon-close"></div>
     </nav>
-    <hr>
   </header>
+  <!-- /Header -->
 
   <main>
-    <!-- Home -->
     <section class="section" id="home">
       <div class="container grid">
 
@@ -42,7 +57,7 @@
 
         <div class="text">
 
-          <h1>Saúde natural para os seus cabelos</h1>
+          <h2 class="title">Saúde natural para os seus cabelos</h2>
           <p>Um salão exclusivo em São Paulo, especializado em tratamentos naturais.</p>
           <a class="button" href="#">Agendar um horário</a>
         </div>
@@ -52,12 +67,19 @@
 
     <div class="divider-1"></div>
 
-    <section class="section">
-      <div class="container"></div>
-      outra section
+    <section class="section" id="about">
+      <div class="container grid">Sobre</div>
+      Section Sobre
     </section>
 
-    <div class="divider2">
+    <div class="divider-1"></div>
+
+    <section class="section" id="services">
+      <div class="container grid">Serviços</div>
+      Section Serviços
+    </section>
+
+
 
     </div>
 
@@ -67,6 +89,7 @@
 
   </footer>
 
+  <script src="main.js"></script>
 
 </body>
 
