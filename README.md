@@ -16,12 +16,25 @@ Projeto **BeautySalon** é uma página de uma empresa ficticia de Salão de bele
 
 O projeto possui uma seção **sobre** com informações sobre a empresa. A seção **serviços** mostra todos os serviços que o negócio oferece, juntamente com uma divisão com os **depoimentos** de quem já utilizou o serviço e claro uma seção com os **contatos** da empresa.
 
- 
+---
 
 
 ##  ❗ Tópicos Importantes
 <!-- - [Modal](https://www.w3schools.com/howto/howto_css_modals.asp) -->
 - [Grids](https://www.w3schools.com/css/css_grid.asp)
+
+---
+
+##  ❗ Bibliotecas
+- [Google Fonts](https://fonts.google.com/)
+- [SwiperJS](https://github.com/nolimits4web/Swiper)
+- [ScrollReveal](https://scrollrevealjs.org/)
+
+---
+
+##  ❗ Utilitários
+- [randomuser.me](https://randomuser.me/photos)
+- [IconMoon](https://icomoon.io/app/#/select)
 
 ---
 
