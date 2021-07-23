@@ -1,6 +1,8 @@
 <h1 align="center"> BeautySalon - Página Web <h1>
 
-<h1> <img src="assets/OriginSix.gif" alt=""> <h1>
+<p align="center">
+ <img src="assets/OriginSix.gif" alt=""> 
+</p>
 
 
 # Indice
